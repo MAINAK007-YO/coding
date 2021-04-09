@@ -1,9 +1,3 @@
-# Exercise 7: Healthy Programmer
-'''
-This program will make you healthy programmer.
-Programme will remind you to drink water, do eye exercise, and do physical activity.
-Assume working_hour = 8 hours # 9am - 5pm
-'''
 import datetime
 import time
 from pygame import mixer
